@@ -1,0 +1,117 @@
+{
+    //system
+    "update.mode": "manual",
+    "update.showReleaseNotes": false,
+    "window.newWindowDimensions": "maximized",
+    "window.restoreWindows": "none",
+    "window.openFoldersInNewWindow": "on",
+    "window.openWithoutArgumentsInNewWindow": "on",
+    "window.zoomLevel": -1,
+    "window.titleBarStyle": "custom",
+    "workbench.startupEditor": "none",
+    "workbench.sideBar.location": "right",
+    "workbench.editor.labelFormat": "short",
+    "workbench.commandPalette.history": 5,
+    "workbench.list.horizontalScrolling": true,
+    "debug.internalConsoleOptions": "neverOpen",
+    "debug.openDebug": "neverOpen",
+    "debug.showInStatusBar": "always",
+    "explorer.openEditors.visible": 4,
+    "explorer.autoReveal": false,
+    "files.autoSaveDelay": 0,
+    "files.autoGuessEncoding": true,
+    "files.hotExit": "off",
+    "editor.suggestSelection": "first",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.accessibilitySupport": "off",
+    "editor.hover.delay": 300,
+    "editor.minimap.side": "left",
+    "editor.minimap.enabled": true,
+    "editor.smoothScrolling": true,
+    "editor.stablePeek": true,
+    "editor.cursorBlinking": "smooth",
+    "editor.tabSize": 4,
+    "editor.fontFamily": "monospace",
+    // "editor.fontFamily": "Consolas, 'Courier New', monospace,'Hack Nerd Font'",
+    "terminal.integrated.confirmOnExit": "hasChildProcesses",
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.fontFamily": "DejaVu Sans Mono for Powerline",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.enableVisualBell": true,
+    "terminal.integrated.scrollback": 10000,
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "git.autoRepositoryDetection": "subFolders",
+    "git.ignoreLegacyWarning": true,
+    "git.showPushSuccessNotification": true,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "extensions.autoUpdate": true,
+    "extensions.ignoreRecommendations": true,
+    "extensions.closeExtensionDetailsOnViewChange": true,
+    "extensions.experimental.affinity": {
+        "vscodevim.vim": 1
+    },
+    "accessibility.signals.terminalBell": {
+        "sound": "on"
+    },
+    "search.collapseResults": "alwaysCollapse",
+    "security.workspace.trust.enabled": false,
+    "http.proxy": "http://127.0.0.1:5010",
+    "outline.icons": false,
+    //
+    //
+    //plugin
+    "vim.autoindent": true,
+    "vim.incsearch": true,
+    "vim.mouseSelectionGoesIntoVisualMode": true,
+    "vim.surround": true,
+    "vim.highlightedyank.enable": true,
+    "vim.useSystemClipboard": true,
+    "vim.useCtrlKeys": false,
+    "vim.hlsearch": true,
+    "vim.overrideCopy": true,
+    "C_Cpp.formatting": "clangFormat",
+    "C_Cpp.intelliSenseUpdateDelay": 500,
+    "C_Cpp.loggingLevel": "Warning",
+    "cmake.configureOnOpen": true,
+    "cmake.options.statusBarVisibility": "visible",
+    "cmake.showConfigureWithDebuggerNotification": false,
+    "background.enabled": true,
+    "background.interval": 10,
+    "background.useFront": true,
+    "background.styles": [
+        {
+            "background-size": "400px auto",
+            "opacity": 0.4
+        },
+        {
+            "background-size": "350px auto",
+            "opacity": 0.4
+        },
+        {
+            "background-size": "350px auto",
+            "opacity": 0.4
+        },
+        {
+            "background-size": "450px auto",
+            "opacity": 0.4
+        },
+        {
+            "background-size": "500px auto",
+            "opacity": 0.3
+        },
+        {
+            "background-size": "400px auto",
+            "opacity": 0.4
+        },
+    ],
+    "background.customImages": [
+        "https://github.com/TSKangetsu/unexpectFile/blob/main/vsBackgroundIMG/resized/jave0.png?raw=true",
+        "https://github.com/TSKangetsu/unexpectFile/blob/main/vsBackgroundIMG/resized/jave1.png?raw=true",
+        "https://github.com/TSKangetsu/unexpectFile/blob/main/vsBackgroundIMG/resized/jave4.png?raw=true",
+        "https://github.com/TSKangetsu/unexpectFile/blob/main/vsBackgroundIMG/resized/jave7.png?raw=true",
+        "https://github.com/TSKangetsu/unexpectFile/blob/main/vsBackgroundIMG/resized/jave3.png?raw=true",
+        "https://github.com/TSKangetsu/unexpectFile/blob/main/vsBackgroundIMG/resized/jave5.png?raw=true",
+    ],
+}
